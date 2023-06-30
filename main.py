@@ -1,10 +1,15 @@
 
 # Update with the exercise you are trying to test
 from src import test
+from src import solutions
+
 
 
 def main():
-    test.hello()
+    solutions.ex6()
+
+
+
 
 
 if __name__ == '__main__':
